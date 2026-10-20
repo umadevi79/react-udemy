@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     <h1>Reat Learning with Uma Pranavi.</h1>
-    <p>This is Sub Heading.</p>
+    <p>I love you , you finally deploy the application.</p>
     </>
   );
 }
